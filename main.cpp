@@ -4,7 +4,7 @@
 
 using namespace std;
 
-ifstream input("input4.txt");
+ifstream input("test/input4.txt");
 ofstream output("output.txt");
 
 // выделение памяти для матрицы
